@@ -77,7 +77,7 @@ article h2{
 .guest_icon{
     height: inherit;
     width: inherit;
-    background: url("../images/icon_group.png");
+    background: url("../images/number_of_guests.png");
     background-repeat: no-repeat;
     margin-left: 35px;
 }
@@ -97,7 +97,7 @@ article h2{
 .rooms_icon{
     height: inherit;
     width: inherit;
-    background: url("../images/icon_bed.png");
+    background: url("../images/number_of_bedrooms.png");
     background-repeat: no-repeat;
     margin-left: 35px;
 }
@@ -117,7 +117,7 @@ article h2{
 .bathrooms_icon{
     height: inherit;
     width: inherit;
-    background: url("../images/icon_bath.png");
+    background: url("../images/number_of_bathrooms.png");
     background-repeat: no-repeat;
     margin-left: 35px;
 }
